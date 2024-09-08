@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: To identify and deliver software product according to business/ user requirements/
+about: To identify and deliver software solutions according to business/ user requirements/
   expectations.
 title: ''
 labels: ''
